@@ -9,14 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animejs": "^3.2.2",
     "axios": "^1.7.2",
     "vue": "^3.4.21"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.24.7",
     "@eslint/js": "^9.3.0",
     "@vitejs/plugin-vue": "^5.0.4",
     "autoprefixer": "^10.4.19",
-    "babel-eslint": "^10.1.0",
     "eslint": "^9.3.0",
     "eslint-plugin-vue": "^9.26.0",
     "globals": "^15.3.0",

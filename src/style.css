@@ -5,6 +5,7 @@
 
   color-scheme: light dark;
   background-color: #f7f6ee;
+  overflow: hidden;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
